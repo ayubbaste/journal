@@ -1,2 +1,2 @@
 # journal
-<b>Test project</b> to learn FastAPI
+The <b>test project</b> to learn FastAPI
