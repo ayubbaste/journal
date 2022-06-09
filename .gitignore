@@ -1,0 +1,25 @@
+*.egg-info
+*.pot
+*.py[co]
+*.session
+*.log
+__pycache__
+.tox/
+.DS_Store
+*.db
+.env
+env/
+
+*.sqlite3
+
+Dockerfile
+docker-compose.yml
+entrypoint.sh
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
